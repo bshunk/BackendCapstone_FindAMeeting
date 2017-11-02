@@ -17,11 +17,11 @@ describe('routes : auth', () => {
     return app.get('models').sequelize.sync({force: true})
       .then(() => {
         const salt = bcrypt.genSaltSync();
-        const hash = bcrypt.hashSync('password123', salt);
+        const hash = bcrypt.hashSync('1234', salt);
         User
           .create({
             id: null,
-            username: 'aidan',
+            username: 'bobby',
             password: hash
           });
       });
@@ -54,8 +54,8 @@ describe('routes : auth', () => {
       chai.request(server)
         .post('/api/v1/auth/login')
         .send({
-          username: 'aidan',
-          password: 'password123'
+          username: 'bobby',
+          password: '1234'
         })
         .end((err, res) => {
           should.not.exist(err);
@@ -91,8 +91,8 @@ describe('routes : auth', () => {
       chai.request(server)
         .post('/api/v1/auth/login')
         .send({
-          username: 'aidan',
-          password: 'password123'
+          username: 'bobby',
+          password: '1234'
         })
         .end((error, response) => {
           should.not.exist(error);

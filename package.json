@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-token-auth",
+  "name": "BackendCapstone_FindAMeeting",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,15 +23,5 @@
     "db:reset": "sequelize db:migrate:undo:all && sequelize db:migrate",
     "start": "node bin/seq-tok",
     "test": "nodemon --exec \"mocha --recursive\" -R list"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jufebrown/sequelize-token-auth.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jufebrown/sequelize-token-auth/issues"
-  },
-  "homepage": "https://github.com/Jufebrown/sequelize-token-auth#readme"
+  }
 }

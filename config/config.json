@@ -1,11 +1,11 @@
 {
   "development": {
-    "database": "seq_tok",
+    "database": "findAMeeting",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "database": "seq_tok_test",
+    "database": "findAMeeting_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
@@ -17,3 +17,4 @@
     "dialect": "mysql"
   }
 }
+
