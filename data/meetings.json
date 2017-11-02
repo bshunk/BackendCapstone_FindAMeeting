@@ -1,4 +1,6 @@
-[
+{
+  "Meetings":
+  [
   {
     "City": "Nashville\n  37214",
     "Day": "Mon",
@@ -2375,4 +2377,5 @@
     "Group": "VIVIENDO SOBRIO",
     "Location": "4813 Nolansville Pike"
   }
- ]
+  ]
+}
