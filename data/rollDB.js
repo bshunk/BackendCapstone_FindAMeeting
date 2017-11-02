@@ -1,8 +1,4 @@
 const {Meetings} = require('./meetings.json');
-// const {Orders} = require('./orders.json');
-// const {Products} = require('./products.json');
-// const {Payment_Types} = require('./payment_types.json');
-// const {Order_Products} = require('./order_products.json');
 let sequelize = require('sequelize');
 let queryInterface = require('sequelize/lib/query-interface');
 
@@ -14,18 +10,6 @@ let rollDB = (queryInterface) => {
     .then( (queryInterface) => {
         return models.User.bulkCreate(Meetings);
     })
-    // .then( () => {
-    //     return models.Payment_Type.bulkCreate(Payment_Types);
-    // })
-    // .then( () => {
-    //     return models.Product.bulkCreate(Products);
-    // })
-    // .then( () => {
-    //     return models.Order.bulkCreate(Orders);
-    // })
-    // .then( () => {
-    //     return models.Product_Order.bulkCreate(Order_Products);
-    // })
     .catch( (err)=> {
         console.log("ERRRR", err);
     })

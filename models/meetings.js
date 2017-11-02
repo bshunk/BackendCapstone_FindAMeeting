@@ -1,6 +1,6 @@
 'use srtict';
 module.exports = (sequelize, DataTypes) => {
-  var Meeting = sequelize.define('Product', {
+  var Meeting = sequelize.define('Meeting', {
     city: DataTypes.STRING,
     day: DataTypes.STRING,
     time: DataTypes.STRING,
@@ -9,8 +9,8 @@ module.exports = (sequelize, DataTypes) => {
     location: DataTypes.STRING
   }, {timestamps: false});
 
-  Product.associate = (models) => {
-    Product.belongsTo(models.User, {
+  Meeting.associate = (models) => {
+    Meeting.belongsTo(models.User, {
       foreignKey: 'user_id'
     });
   }
