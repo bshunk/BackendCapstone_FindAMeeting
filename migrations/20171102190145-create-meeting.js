@@ -8,6 +8,15 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
+      category: {
+        type: Sequelize.STRING
+      },
+      type: {
+        type: Sequelize.STRING
+      },
+      group: {
+        type: Sequelize.STRING
+      },
       city: {
         type: Sequelize.STRING
       },
@@ -15,12 +24,6 @@ module.exports = {
         type: Sequelize.STRING
       },
       time: {
-        type: Sequelize.STRING
-      },
-      type: {
-        type: Sequelize.STRING
-      },
-      group: {
         type: Sequelize.STRING
       },
       location: {
