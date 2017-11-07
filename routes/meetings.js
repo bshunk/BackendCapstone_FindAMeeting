@@ -2,10 +2,6 @@ const express = require('express');
 const router = express.Router();
 const { } = require('../controllers/meetings');
 
-router.get('/')
-
-// router.post('/auth/register', registerUser);
-// router.post('/auth/login', loginUser);
-// router.get('/auth/user', authHelpers.ensureAuthenticated, getUser);
+router.get('/meetings/:category/:type/:group/:city/:day/:time:/location', getMeetings);
 
 module.exports = router;
