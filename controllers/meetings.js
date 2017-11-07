@@ -1,31 +1,19 @@
 'use strict';
 
-module.exports.getAllMeeting = (req, res, next) => {
-  const { Meeting } = req.app.get('models');
-  Meeting.findAll()
-  .then( (data) => {
-    res.status(200).json(data);
+const { getMeetings } = require('../models/Meetings');
+
+module.exports.getMeetings = (req, res, next) => {
+  getAllMeetings()
+  .then( (meetings) => {
+    res.status(200).json(meetings);
   })
   .catch( (err) => next(err));
-}
+};
 
-// module.exports.getAllProducts = (req, res, next) => {
-// 	const { Product } = req.app.get('models');
-// 	Product.findAll({ order: ['id'] })
-// 	.then( (Prods) => {
-// 		Prods.reverse();
-// 		res.render('allProducts', {	Prods	})
-// 	})
-// 	.catch( (err) => {
-// 		next(err)
-// 	})
-// };
-
-// select * from "Meetings";
-
-// const getMeeting = (category, type, group, city, day, time, location) => {
-//   return new Promise( (resolve, reject) => {
-//     console.log("category", category);
+// module.exports.getProducts = (req, res, next) => {
+//   getAllProducts()
+//   .then( (products) => {
+//     res.status(200).json(products);
 //   })
-// }
-
+//   .catch( (err) => next(err));
+// };
