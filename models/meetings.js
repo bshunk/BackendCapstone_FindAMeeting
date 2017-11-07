@@ -8,12 +8,14 @@ module.exports = (sequelize, DataTypes) => {
     day: DataTypes.STRING,
     time: DataTypes.STRING,
     location: DataTypes.STRING
-  }, {timestamps: false});
+  }, { timestamps: false});
 
-  Meeting.associate = (models) => {
+  Meeting.associate = function(models) {
     Meeting.hasMany(models.User, {
       foreignKey: 'user_id'
     });
-  }
+  };
+
   return Meeting;
+
 };

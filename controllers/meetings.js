@@ -1,11 +1,10 @@
 'use strict';
- 
+
 module.exports.getMeetings = (req, res, next) => {
-  console.log("TEST");
-	const { Meeting } = req.app.get('models');
-	Meeting.findAll()
-	.then( (Meetings) => {
-		res.status(200).json(Meetings)
+  const { Meeting } = req.app.get('models');
+	Meeting.findAll({ where: {day: req.params.day}})
+	.then( (Meeting) => {
+		res.status(200).json(Meeting)
 	})
 	.catch( (err) => {
     console.log('error', err);
