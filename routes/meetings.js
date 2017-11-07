@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
-const { } = require('../controllers/meetings');
+
+const { getMeetings } = require('../controllers/meetings');
 
 router.get('/meetings', getMeetings);
 
