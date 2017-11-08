@@ -1,0 +1,2678 @@
+{
+  "Meetings":
+  [
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "7:00 AM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BB",
+      "group": "SUNRISER MEETING",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "7:00 AM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "EAST SIDE SUNLIGHTERS",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "7:30 AM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th St. (at Gartland Ave.)"
+    },
+    {
+      "category": "AA",
+      "type": "LIT/TT",
+      "group": "OUT TO BREAKFAST BUNCH",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "9:00 AM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "11:30 AM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD*+CD/TT/BB",
+      "group": "OUT TO LUNCH BUNCH GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "11:30 AM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "DOWNTOWN 11:30 LUNCH MEETING",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "11:30 AM",
+      "location": "Downtown Presbyterian Church\n154 Fifth Ave North"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "DAVIDSON ROAD AA GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "11:30 AM",
+      "location": "Belle Meade United Methodist Church\n121 Davidson Rd @ Post Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "COME AS YOU ARE",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "11:30 AM",
+      "location": "Club 62\n329 PeachtreeStreet"
+    },
+    {
+      "category": "AA",
+      "type": "OD/+BB/SS",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "12:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UTOPIA FELLOWSHIP GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "12:00 PM",
+      "location": "Last Stop Club\n2122 Utopia Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "SP/CD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "12:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WINNERS & BEGINNERS GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "12:00 PM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "EAST SIDE RECOVERY@NOON",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "12:00 PM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th Street(at Gartland Ave)"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE NOONERS",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "12:00 PM",
+      "location": "Donelson Church of the Nazarene\n208 Donelson Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "1:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "3:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "5:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "5:30 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UNITY GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:00 PM",
+      "location": "Club 62\n329 Peachtree St"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EVERY NIGHT AT 6 GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:00 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "WMN/CD",
+      "group": "WOMEN'S  FREEDOM MEETING",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:00 PM",
+      "location": "Concordia Lutheran Church\n3501 Central Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "CD/MEDITATION",
+      "group": "MUSIC CITY HAPPY HOUR GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:00 PM",
+      "location": "5925 O'Brien"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "NO NONSENSE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:30 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LOVE AND LAUGHTER",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:30 PM",
+      "location": "Saturn Drive Baptist Church\n1212 Saturn Drive"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "BELLEVUE 24 GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:30 PM",
+      "location": "100 Cross Timbers Dr @ Hwy 70S\nBellevue Presbyterian Church"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "COMMON SOLUTION GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:30 PM",
+      "location": "Bldg @ annex of South 5th and Main Streets\n521 Woodland Street"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LIFESAVERS GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:30 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD/GRAPEVINE",
+      "group": "NIPPER'S CORNER MEETING",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "6:30 PM",
+      "location": "Faith Christian Reformed Church\n15512 Old Hickory Blvd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BB",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "7:00 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "CD/LIT",
+      "group": "KEEP IT SIMPLE",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "7:00 PM",
+      "location": "Holy Trinity Lutheran Church\n525 Sneed Road, Bellevue"
+    },
+    {
+      "category": "AA",
+      "type": "OD/MEN",
+      "group": "EAST SIDE MEN'S STAG",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "7:00 PM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th St. (at Gartland Ave)"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SPIRITUAL LIVING GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "7:30 PM",
+      "location": "Music City Center for Spiritual Living\n1012 Buchanan Street"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "CAMINO A LA SOBRIEDAD",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "2572 Murfreesboro Pk"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "VIVIENDO SOBRIO",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "4813 Nolansville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "CD/SS",
+      "group": "NEEDED MEETING CLOSED GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "Redeemer Lutheran Church\n800 Bellevue Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EAST NASHVILLE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "Holy Name Catholic Church\n521 Woodland St."
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "FELLOWSHIP GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "CENTENNIAL MEETING",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "SP/LIT",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/MEN",
+      "group": "HARDING ROAD GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "St Georges Episcopal Church\n104 Belle Meade Blvd."
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "LET IT HAPPEN GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "5925 O'Brien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SOLO POR HOY",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "2610 -A Nolensville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LGBT, ALL WELCOME",
+      "group": "LAMBDA GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "Trinity Presbyterian Church\n3201 Hillsboro Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WOODBINE GROUP",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "The Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD/",
+      "group": "YOUNG GUNS",
+      "city": "Nashville",
+      "day": "Monday",
+      "time": "8:00 PM",
+      "location": "Club 62\n329 Peachtree St"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "7:00 AM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BB",
+      "group": "SUNRISER MEETING",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "7:00 AM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "EAST SIDE SUNLIGHTERS",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "7:30 AM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th St. (at Gartland Ave.)"
+    },
+    {
+      "category": "AA",
+      "type": "OD/GV",
+      "group": "OUT TO BREAKFAST BUNCH",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "9:00 AM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "CD/LIT",
+      "group": "WOMEN'S OPEN DOOR MEETING",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "10:30 AM",
+      "location": "Belle Meade Methodist Church\n121 Davidson Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/+OD",
+      "group": "OUT TO LUNCH BUNCH GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "11:30 AM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "DOWNTOWN 11:30 LUNCH MEETING",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "11:30 AM",
+      "location": "Downtown Presbyterian Church\n154 Fifth Ave North"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "DAVIDSON ROAD AA GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "11:30 AM",
+      "location": "Belle Meade United Methodist Church\n121 Davidson Rd @ Post Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "COME AS YOU ARE",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "11:30 AM",
+      "location": "Club 62\n329 PeachtreeStreet"
+    },
+    {
+      "category": "AA",
+      "type": "OD/+BB/SS",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "12:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UTOPIA FELLOWSHIP GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "12:00 PM",
+      "location": "Last Stop Club\n2122 Utopia Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "SP/CD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "12:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "EAST NASHVILLE 86'ERS",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "12:00 PM",
+      "location": "Dalewood United Methodist Church\n2300 Ridgecrest Drive"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WINNERS & BEGINNERS GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "12:00 PM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE NOONERS",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "12:00 PM",
+      "location": "Donelson Church of the Nazarene\n208 Donelson Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "1:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "3:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "5:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "5:30 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "UNITY GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:00 PM",
+      "location": "Club 62\n329 Peachtree St"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EVERY NIGHT AT 6 GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:00 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "CD/LIT",
+      "group": "MUSIC CITY HAPPY HOUR GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:00 PM",
+      "location": "5925 O'Brien"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LOVE AND LAUGHTER",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:30 PM",
+      "location": "Saturn Drive Baptist Church\n1212 Saturn Drive"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LIFESAVERS GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:30 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "VETERANS IN RECOVERY",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:30 PM",
+      "location": "Vinehill Towers-2nd Floor\n625 Benton Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "THE SAFE PLACE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:30 PM",
+      "location": "Oasis Church\n7533 Lord's Chapel Dr"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT/WMN",
+      "group": "EAST NASHVILLE WOMEN'S MEETING",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:30 PM",
+      "location": "1601 Eastland Ave\n(Eastwood Christian Church)"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "CEDAR CIRCLE",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:30 PM",
+      "location": "Unity Missionary Baptist Church\n4029 Cedar Circle"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "A.W.O.L.(A WAY OF LIFE) LIT STUDY",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "6:30 PM",
+      "location": "Cross Point Church Bellevue\n7675 U.S. 70 South"
+    },
+    {
+      "category": "AA",
+      "type": "WMN OD/+BEG/BB",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "7:00 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BEG",
+      "group": "BELLEVUE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "7:00 PM",
+      "location": "100 Cross Timbers Drive@ Hwy 70\nBellevue Presbyterian Church"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "BELLEVUE WINNERS AND BEGINNERS",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "7:00 PM",
+      "location": "Bellevue Baptist Church\n101 Cross Timbers Dr"
+    },
+    {
+      "category": "AA",
+      "type": "CD/+ ALN",
+      "group": "P.O.P. GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "7:00 PM",
+      "location": "Brush Hill Cumberland Presby Church\n3705 Brush Hill Rd"
+    },
+    {
+      "category": "AA",
+      "type": "CD/LIT",
+      "group": "EVERYTHING OR NOTHING",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "7:00 PM",
+      "location": "Brookhollow Baptist Church\n678 Brookhollow Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "CAMINO A LA SOBRIEDAD",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "2572 Murfreesboro Pk"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "VIVIENDO SOBRIO",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "4813 Nolansville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "CENTENNIAL MEETING",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OS",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "21ST AVENUE MEETING",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "Belmont United Methodist Church\n2007 Acklen Ave (Downstairs)"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SOLO POR HOY",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "2610 -A Nolensville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "COMMUNICATIONS GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "Concordia Lutheran Church\n3501 Central Ave"
+    },
+    {
+      "category": "AA",
+      "type": "TT/CD",
+      "group": "WOODBINE GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "The Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD/TT/BEG/+WMN",
+      "group": "HILLSBORO ROAD GROUP",
+      "city": "Nashville",
+      "day": "Tuesday",
+      "time": "8:00 PM",
+      "location": "Woodmont Christian Church\n3601 Hillsboro Pike"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "7:00 AM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BB",
+      "group": "SUNRISER MEETING",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "7:00 AM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "EAST SIDE SUNLIGHTERS",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "7:30 AM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th St. (at Gartland Ave.)"
+    },
+    {
+      "category": "AA",
+      "type": "DAILY REFLECTIONS LT",
+      "group": "OUT TO BREAKFAST BUNCH",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "9:00 AM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "DOWNTOWN Y LUNCH MEETING",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "11:30 AM",
+      "location": "1000 Church Street"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "11:30 AM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/+OD+CD/TT",
+      "group": "OUT TO LUNCH BUNCH GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "11:30 AM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "DAVIDSON ROAD AA GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "11:30 AM",
+      "location": "Belle Meade United Methodist Church\n121 Davidson Rd @ Post Rd"
+    },
+    {
+      "category": "AA",
+      "type": "CD/WMN",
+      "group": "NEW BEGINNINGS FOR WOMEN GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "11:30 AM",
+      "location": "Unity of Nashville\n5125 Franklin Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "COME AS YOU ARE",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "11:30 AM",
+      "location": "Club 62\n329 PeachtreeStreet"
+    },
+    {
+      "category": "AA",
+      "type": "OD/ +BB/SS",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UTOPIA FELLOWSHIP GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "location": "Last Stop Club\n2122 Utopia Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "SP/CD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/WMN",
+      "group": "EAST SIDE RECOVERY @ NOON/WOMEN",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "location": "Woddland Presbyterian Church\n211 N 11th Street"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WINNERS & BEGINNERS GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OS/OD/MEN",
+      "group": "EAST SIDE RECOVERY@NOON",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th Street(at Gartland Ave)"
+    },
+    {
+      "category": "AA",
+      "type": "CD/BB/TT",
+      "group": "SHADE TREE NOONERS",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "location": "Donelson Church of the Nazarene\n208 Donelson Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/",
+      "group": "SAINT A'S",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "location": "200 24th Avenue South\nSaint Augustine's Chapel at Vanderbilt University"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "1:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "WEDNESDAY LIVING BY THE PRINT",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "1:15 PM",
+      "location": "3710 Franklin Rd\nWoodmont Hills Church"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "3:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "5:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "5:30 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/WMN",
+      "group": "WOMEN IN RECOVERY",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "5:30 PM",
+      "location": "5925 O'Brien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OS",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EVERY NIGHT AT 6 GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:00 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "RECOVERY ON THE ROW",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:00 PM",
+      "location": "1619 17th Avenue south"
+    },
+    {
+      "category": "AA",
+      "type": "CD/LIT",
+      "group": "MUSIC CITY HAPPY HOUR GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:00 PM",
+      "location": "5925 O'Brien"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "NO NONSENSE GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:30 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD/GAY",
+      "group": "FREE TO BE GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:30 PM",
+      "location": "St. Ann's Episcopal Church\n 419 Woodland Street"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BB",
+      "group": "LIFESAVERS GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:30 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "HARDING ROAD GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:30 PM",
+      "location": "St Georges Episcopal Church\n104 Belle Meade Blvd."
+    },
+    {
+      "category": "AA",
+      "type": "CD/LIT",
+      "group": "NIPPER'S CORNER MEETING",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "6:30 PM",
+      "location": "Faith Christian Reformed Church\n15512 Old Hickory Blvd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/WMN/LIT",
+      "group": "SAVE HER A SEAT",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "7:00 PM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th Street(@ Gartland)"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "CAMINO A LA SOBRIEDAD",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "2572 Murfreesboro Pk"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "VIVIENDO SOBRIO",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "4813 Nolansville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BB/TT",
+      "group": "ONE DAY AT A TIME GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "East End United Methodist Church\n1212 Holly St"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OD/LIT",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "CENTENNIAL MEETING",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "KEEP IT SIMPLE",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "Holy Trinity Lutheran Church\n525 Sneed Road, Bellevue"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "HARDING ROAD GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "St Georges Episcopal Church\n104 Belle Meade Blvd."
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "DONELSON YET GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "Holy Rosary Catholic Church\n190 Graylynn Dr"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LET IT HAPPEN GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "5925 O'Brien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SOLO POR HOY",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "2610 -A Nolensville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "BB/CD",
+      "group": "WOODBINE GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "The Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD/YP",
+      "group": "YOUNG GUNS",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "Club 62\n329 Peachtree St"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "NEW FAITH GROUP",
+      "city": "Nashville",
+      "day": "Wednesday",
+      "time": "8:00 PM",
+      "location": "Glencliff United Methodist Church\n2901 Glencliff Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "7:00 AM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/TT",
+      "group": "SUNRISER MEETING",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "7:00 AM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "EAST SIDE SUNLIGHTERS",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "7:30 AM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th St. (at Gartland Ave.)"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "OUT TO BREAKFAST BUNCH",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "9:00 AM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "WMN/OD/DN",
+      "group": "N.O.W. (NASHVILLE'S ORIGINAL WOMAN'S GROUP)",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "11:00 AM",
+      "location": "Friendship House\n202 23rd Ave North"
+    },
+    {
+      "category": "AA",
+      "type": "OD/+OD",
+      "group": "OUT TO LUNCH BUNCH GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "11:30 AM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "DOWNTOWN 11:30 LUNCH MEETING",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "11:30 AM",
+      "location": "Downtown Presbyterian Church\n154 Fifth Ave North"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "DAVIDSON ROAD AA GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "11:30 AM",
+      "location": "Belle Meade United Methodist Church\n121 Davidson Rd @ Post Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "COME AS YOU ARE",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "11:30 AM",
+      "location": "Club 62\n329 PeachtreeStreet"
+    },
+    {
+      "category": "AA",
+      "type": "OD/+BB/SS",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "12:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UTOPIA FELLOWSHIP GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "12:00 PM",
+      "location": "Last Stop Club\n2122 Utopia Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "SP/CD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "12:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "EAST NASHVILLE 86'ERS",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "12:00 PM",
+      "location": "Dalewood United Methodist Church\n2300 Ridgecrest Drive"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WINNERS & BEGINNERS GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "12:00 PM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE NOONERS",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "12:00 PM",
+      "location": "Donelson Church of the Nazarene\n208 Donelson Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "1:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "3:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "5:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "5:30 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BB",
+      "group": "MUSIC ROW GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "5:30 PM",
+      "location": "Musicians' Union\n 11 Music Circle North"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UNITY GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:00 PM",
+      "location": "Club 62\n329 Peachtree St"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OD/LIT",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EVERY NIGHT AT 6 GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:00 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "MEN'S BOOK STUDY",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:30 PM",
+      "location": "St. George's Church\n104 Belle Meade Blvd"
+    },
+    {
+      "category": "AA",
+      "type": "BB/OD",
+      "group": "PLACE OF HOPE AA MEETING",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:30 PM",
+      "location": "1218 Stockell St\n(In the Back)"
+    },
+    {
+      "category": "AA",
+      "type": "OD/BR",
+      "group": "LIFESAVERS GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:30 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD/WMN",
+      "group": "HAND IN HAND",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:30 PM",
+      "location": "Crievewood United Methodist Church\n451 Hogan Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "THE SAFE PLACE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:30 PM",
+      "location": "Oasis Church\n7533 Lord's Chapel Dr"
+    },
+    {
+      "category": "AA",
+      "type": "CD/LIT",
+      "group": "3 LEGACIES NASHVILLE",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "6:30 PM",
+      "location": "Blakemore Church of the Nazarene\n2800 Belcourt Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "BELLEVUE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "7:00 PM",
+      "location": "100 Cross Timbers Drive@ Hwy 70\nBellevue Presbyterian Church"
+    },
+    {
+      "category": "AA",
+      "type": "OD/MENS",
+      "group": "EAST SIDE MEN'S STAG",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "7:00 PM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th St. (at Gartland Ave)"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "NEW BEGINNINGS INGLEWOOD",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "7:00 PM",
+      "location": "Inglewood United Methodist Church\n3511 Gallatin Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "CAMINO A LA SOBRIEDAD",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "2572 Murfreesboro Pk"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "VIVIENDO SOBRIO",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "4813 Nolansville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OS",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "CENTENNIAL MEETING",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EAST NASHVILLE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "Holy Name Catholic Church\n521 Woodland St."
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "FELLOWSHIP GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SOLO POR HOY",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "2610 -A Nolensville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LGBT, ALL WELCOME",
+      "group": "LAMBDA GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "Trinity Presbyterian Church\n3201 Hillsboro Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WOODBINE GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "The Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD*/BB/BEG+WMN",
+      "group": "HILLSBORO ROAD GROUP",
+      "city": "Nashville",
+      "day": "Thursday",
+      "time": "8:00 PM",
+      "location": "Woodmont Christian Church\n3601 Hillsboro Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "7:00 AM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/TT",
+      "group": "SUNRISER MEETING",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "7:00 AM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "EAST SIDE SUNLIGHTERS",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "7:30 AM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th St. (at Gartland Ave.)"
+    },
+    {
+      "category": "AA",
+      "type": "LIT/BB",
+      "group": "OUT TO BREAKFAST BUNCH",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "9:00 AM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT/WMN",
+      "group": "S.O.S. SISTERS OF SOBRIETY",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "10:00 AM",
+      "location": "Belle Meade United Methodist church\n121 Davidson Rd@Post Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD+OD/+CD/TT",
+      "group": "OUT TO LUNCH BUNCH GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "11:30 AM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "DOWNTOWN 11:30 LUNCH MEETING",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "11:30 AM",
+      "location": "Downtown Presbyterian Church\n154 Fifth Ave North"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "DAVIDSON ROAD AA GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "11:30 AM",
+      "location": "Belle Meade United Methodist Church\n121 Davidson Rd @ Post Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "COME AS YOU ARE",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "11:30 AM",
+      "location": "Club 62\n329 PeachtreeStreet"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UTOPIA FELLOWSHIP GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "12:00 PM",
+      "location": "Last Stop Club\n2122 Utopia Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "SP/CD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "12:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WINNERS & BEGINNERS GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "12:00 PM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EAST SIDE RECOVERY@NOON",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "12:00 PM",
+      "location": "Woodland Presbyterian Church\n211 N. 11th Street(at Gartland Ave)"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE NOONERS",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "12:00 PM",
+      "location": "Donelson Church of the Nazarene\n208 Donelson Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "MID-DAY WOMEN\"S MEETING",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "12:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/+BB/SS",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "12:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "1:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "3:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "5:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "5:30 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UNITY GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "6:00 PM",
+      "location": "Club 62\n329 Peachtree St"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OS",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "6:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EVERY NIGHT AT 6 GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "6:00 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OS/OD",
+      "group": "SPIRITUAL WARFARE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "6:00 PM",
+      "location": "Woodland Presbyterian Church\n211 North 11th Street"
+    },
+    {
+      "category": "AA",
+      "type": "OD/OS",
+      "group": "WANGL",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "6:30 PM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LOVE AND LAUGHTER",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "6:30 PM",
+      "location": "Saturn Drive Baptist Church\n1212 Saturn Drive"
+    },
+    {
+      "category": "AA",
+      "type": "OD +OD/BEG/BR",
+      "group": "LIFESAVERS GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "6:30 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "NO NONSENSE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "6:30 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "AS BILL SEES IT GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "7:00 PM",
+      "location": "Bellevue Presbyterian Church Library\n100 Cross Timbers Drive"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "TOGETHER WE CAN",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "7:00 PM",
+      "location": "Mt. Carmel Baptist Church\n1032 Monroe Street"
+    },
+    {
+      "category": "AA",
+      "type": "OS/WMN",
+      "group": "WOMEN'S SPEAKER GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "7:00 PM",
+      "location": "Concordia Lutheran Church\n3501 Central Ave"
+    },
+    {
+      "category": "AA",
+      "type": "OS",
+      "group": "P.O.P. GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "7:00 PM",
+      "location": "Brush Hill Cumberland Presby Church\n3705 Brush Hill Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "YOUNG AND SOBER",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "7:00 PM",
+      "location": "Andrew price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "CAMINO A LA SOBRIEDAD",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "2572 Murfreesboro Pk"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "VIVIENDO SOBRIO",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "4813 Nolansville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "CENTENNIAL MEETING",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "DONELSON YET GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "Holy Rosary Catholic Church\n190 Graylynn Dr"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "WAVERLY-BELMONT GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "Christ the King Church\n3001 Belmont Blvd. (rear entrance)"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SOLO POR HOY",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "2610 -A Nolensville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/AS BILL SEES IT",
+      "group": "WOODBINE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "The Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WEST NASHVILLE GROUP",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "All Saints Southern Episcopal Church\n4513 Park Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "THE LIONS DEN",
+      "city": "Nashville",
+      "day": "Friday",
+      "time": "8:00 PM",
+      "location": "Bordeaux Church of Christ\n3715 John Mallette Dr"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SUNRISER MEETING",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "7:00 AM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "7:00 AM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SATURDAY EYE OPENER MEETING",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "9:00 AM",
+      "location": "Club 62\n323 Peachtree"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "OUT TO BREAKFAST BUNCH",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "9:00 AM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "OD/TT",
+      "group": "BACK ROOM GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "9:00 AM",
+      "location": "5925 O'Brien Ave"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "SATURDAY LIVING BY THE PRINT",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "10:00 AM",
+      "location": "Glen Leven Presbyterian Church\n3906 Franklin Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OS/OD",
+      "group": "KEEP IT SIMPLE",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "10:00 AM",
+      "location": "Holy Trinity Lutheran Church\n525 Sneed Road, Bellevue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EAST SIDE SATURDAY",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "10:00 AM",
+      "location": "St Ann's Episcopal Church\n419 Woodland"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "11TH STEP MEETING",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "10:00 AM",
+      "location": "Belle Meade United Methodist Church\n121 Davidson Rd @ Post Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "10:00 AM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "BACK ROOM GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "10:30 AM",
+      "location": "5925 O'Brien Ave"
+    },
+    {
+      "category": "AA",
+      "type": "OD/WMN",
+      "group": "WIRED(WOMEN IN RECOVERY EVERY DAY)",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "10:30 AM",
+      "location": "Club 62\n329 Peachtree"
+    },
+    {
+      "category": "AA",
+      "type": "TT/OD",
+      "group": "PLACE OF HOPE AA MEETING",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "11:00 AM",
+      "location": "1218 Stockell St\n(In the Back)"
+    },
+    {
+      "category": "AA",
+      "type": "OD+OD",
+      "group": "OUT TO LUNCH BUNCH GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "11:30 AM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "WESTMINSTER GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "11:30 AM",
+      "location": "Westminster Presbyterian Church\n3900 West End Ave"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "11:30 AM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "SP/CD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "12:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "UTOPIA FELLOWSHIP GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "12:00 PM",
+      "location": "Last Stop Club\n2122 Utopia Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "MID-DAY BREAK GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "12:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "1:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "3:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "BELLEVUE 24 GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "5:00 PM",
+      "location": "100 Cross Timbers Dr @ Hwy 70S\nBellevue Presbyterian Church"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "5:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "5:30 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "6:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EVERY NIGHT AT 6 GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "6:00 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LIFESAVERS GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "6:30 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "YOUNG AND SOBER",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "7:00 PM",
+      "location": "Andrew price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "VIVIENDO SOBRIO",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "4813 Nolansville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OS",
+      "group": "CENTENNIAL MEETING",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "ONE DAY AT A TIME GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "East End United Methodist Church\n1212 Holly St"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WESTMEADE GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "St Henrys Catholic Church\n6401 Harding Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OS",
+      "group": "HILLWOOD FAMILY MEETING",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "Brookmeade Congregational Church\n700 Bresslyn Road"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LET IT HAPPEN GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "5925 O'Brien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SOLO POR HOY",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "2610 -A Nolensville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WEEKENDERS GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "Inglewood United Methodist Church\n3511 Gallatin Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/CDLT",
+      "group": "WOODBINE GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "The Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "MUSTARD SEED GROUP",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "Second Presbyterian Church\n3511 Belmont Blvd @ Graybar"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OS",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "CAMINO A LA SOBRIEDAD",
+      "city": "Nashville",
+      "day": "Saturday",
+      "time": "8:00 PM",
+      "location": "2572 Murfreesboro Pk"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SUNRISER MEETING",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "7:00 AM",
+      "location": "5925 OBrien Avenue"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "MORNING BOOK STUDY",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "9:00 AM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "BB//OD+ALN",
+      "group": "BACK ROOM GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "9:00 AM",
+      "location": "5925 O'Brien Ave"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SUNDAY MORNING BREAKFAST MTG",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "9:00 AM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD/WMN",
+      "group": "STEEL MAGNOLIAS WOMEN'S MEETING",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "10:00 AM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD/PLUS BEG MEETING",
+      "group": "BACK ROOM GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "10:30 AM",
+      "location": "5925 O'Brien Ave"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "OUT TO LUNCH BUNCH GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "11:30 AM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "PEACHTREE GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "12:00 PM",
+      "location": "Club 62\n329 Peachtree Street"
+    },
+    {
+      "category": "AA",
+      "type": "SP/CD",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "12:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "1:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD/OS-3RD SUNDAY",
+      "group": "SHADE TREE GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "2:00 PM",
+      "location": "Andrew Price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "3:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD/LIT",
+      "group": "BELLEVUE GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "5:00 PM",
+      "location": "100 Cross Timbers Drive@ Hwy 70\nBellevue Presbyterian Church"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "FIVE & FIVE GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "5:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OS",
+      "group": "KEEP IT SIMPLE",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "6:00 PM",
+      "location": "Holy Trinity Lutheran Church\n525 Sneed Road, Bellevue"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "EVERY NIGHT AT 6 GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "6:00 PM",
+      "location": "Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "STRUCK GOLD",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "6:00 PM",
+      "location": "Friendship House\n202 23rd Avenue North"
+    },
+    {
+      "category": "AA",
+      "type": "MEDITATION MEETING",
+      "group": "YOUNG AND SOBER",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "6:00 PM",
+      "location": "Andrew price Memorial Methodist Church\n2846 Lebanon Pike"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OS",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "6:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "LIFESAVERS GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "6:30 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD/TT",
+      "group": "RECOVERY OF HOPE MEETING",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "6:30 PM",
+      "location": "Dixon Memorial United Methodist Church\n1111 Buchannan St"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "RECOVERY OF HOPE",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "6:30 PM",
+      "location": "Dixon Memorial United Methodist Church\n1111 Buchanan Street"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SUNDAY NIGHT BUNCH",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "7:00 PM",
+      "location": "Carpenter's Square\n3016 Nolensville Road"
+    },
+    {
+      "category": "AA",
+      "type": "OD/MEN",
+      "group": "SUNDAY NIGHT MEN",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "Friendship House\n203 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "OD/MEN",
+      "group": "CENTENNIAL MEETING",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "Friendship House\n202 23rd Ave N"
+    },
+    {
+      "category": "AA",
+      "type": "CD",
+      "group": "ONE DAY AT A TIME GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "East End United Methodist Church\n1212 Holly St"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "SOLO POR HOY",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "2610 -A Nolensville Pike"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WEEKENDERS GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "Inglewood United Methodist Church\n3511 Gallatin Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD",
+      "group": "WOODBINE GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "The Last Stop Club\n2122 Utopia"
+    },
+    {
+      "category": "AA",
+      "type": "OS & OD",
+      "group": "COMMUNICATIONS GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "Concordia Lutheran Church\n3501 Central Ave"
+    },
+    {
+      "category": "AA",
+      "type": "OD/YP",
+      "group": "YOUNG GUNS",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "Club 62\n329 Peachtree St"
+    },
+    {
+      "category": "AA",
+      "type": "OD/LIT",
+      "group": "NEW FAITH GROUP",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "Glencliff United Methodist Church\n2901 Glencliff Rd"
+    },
+    {
+      "category": "AA",
+      "type": "SP/OS",
+      "group": "VOLVER A NACER (SPANISH)",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "421 Elysian Fields Rd"
+    },
+    {
+      "category": "AA",
+      "type": "OD/SP",
+      "group": "VIVIENDO SOBRIO",
+      "city": "Nashville",
+      "day": "Sunday",
+      "time": "8:00 PM",
+      "location": "4813 Nolansville Pike"
+    }
+  ]
+}

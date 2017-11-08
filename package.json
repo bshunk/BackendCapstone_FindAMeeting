@@ -21,7 +21,8 @@
   },
   "scripts": {
     "db:reset": "sequelize db:migrate:undo:all && sequelize db:migrate",
-    "start": "node bin/seq-tok",
-    "test": "nodemon --exec \"mocha --recursive\" -R list"
+    "start": "nodemon bin/seq-tok",
+    "test": "nodemon --exec \"mocha --recursive\" -R list",
+    "rollDB": "node data/rollDB.js"
   }
 }
