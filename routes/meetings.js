@@ -3,6 +3,6 @@ const router = express.Router();
 
 const { getMeetings } = require('../controllers/meetings');
 
-router.get('/meetings/:day', getMeetings);
+router.get('/meetings/:day/:time/:city', getMeetings);
 
 module.exports = router;
