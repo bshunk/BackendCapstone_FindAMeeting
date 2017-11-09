@@ -13,8 +13,8 @@ module.exports.getMeetings = (req, res, next) => {
 };
 
 module.exports.addNewMeeting = (req, res, next) => {
-	console.log("addNewMeeting Running?");
-	console.log(req.body);
+	// console.log("addNewMeeting Running?");
+	// console.log(req.body);
 	const { Meeting } = req.app.get('models');
 	Meeting.create({
 		category: req.body.category,
@@ -26,7 +26,6 @@ module.exports.addNewMeeting = (req, res, next) => {
 		location: req.body.location
 	})
 	.then( (data) => {
-		console.log('DATA IN BACK CTRL', data.dataValues);
 		// Meeting.findAll({ where: {day: req.params.day, time: req.params.time, city: req.params.city} })
 		// .then( (Meeting) => {
 		// 	res.status(200).json(Meeting)
