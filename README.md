@@ -3,20 +3,20 @@
 "Find A Meeting" is a supremely user-friendly app that allows a user to easily navigate the page to find an AA meeting nearby and add a new meeting if the user is wanting to create one.
 
 # Dependencies  
-   "bcryptjs": "^2.4.3",
-   "body-parser": "^1.18.2",
-   "cors": "^2.8.4",
-   "dotenv": "^4.0.0",
-   "express": "^4.16.2",
-   "jwt-simple": "^0.5.1",
-   "moment": "^2.19.1",
-   "pg": "^7.3.0",
-   "sequelize": "^4.15.0"
+      "bcryptjs": "^2.4.3",
+      "body-parser": "^1.18.2",
+      "cors": "^2.8.4",
+      "dotenv": "^4.0.0",
+      "express": "^4.16.2",
+      "jwt-simple": "^0.5.1",
+      "moment": "^2.19.1",
+      "pg": "^7.3.0",
+      "sequelize": "^4.15.0"
 
  # DevDependencies
-    "mocha": "^4.0.1",
-    "chai": "^4.1.2",
-    "chai-http": "^3.0.0"
+      "mocha": "^4.0.1",
+      "chai": "^4.1.2",
+      "chai-http": "^3.0.0"
 
 # How to run:
 
